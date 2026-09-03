@@ -1,0 +1,22 @@
+﻿TRADESPACE
+The fastest path from invention to filed patent.
+tradespace.io  ·  careers@tradespace.io  ·  Series B to Pre-IPO IP Infrastructure
+
+
+Applying for: Senior Licensing Officer (0339U), Technology Licensing, UC Berkeley, Berkeley, CA
+SUMMARY
+Commercialization infrastructure built for turning a university's invention portfolio into licenses, not just filings. Built for exactly what this role owns: evaluating commercial potential across a Bio/Chem/Biotech portfolio, marketing technologies to industry, and negotiating licenses, with the triage and matching work done before a licensing officer's time gets spent on it.
+RELEVANT EXPERIENCE
+Invention Capture & Portfolio Buildout, Enveda Biosciences   Series B biotech · small legal team, high R&D velocity
+* Replaced a disclosure process engineers were quietly avoiding with AI-assisted intake that meets inventors where they already work: the direct equivalent of pulling patentable work out of engineers who don't recognize it as inventive.
+* Migrated the full legacy portfolio in 30 minutes and became the IP team's system of record from day one, with no separate change-management project required.
+* Gave a newly onboarded IP team member a working command center instead of a dependency on outside counsel for basic status checks, called “game-changing” from the first login.
+Portfolio Strategy & Board Reporting, Woodward   industrial hardware manufacturer
+* Built patent-to-product mapping and board-ready KPI reporting for a hardware manufacturer transitioning off a legacy docketing system, the same “which three patents protect the core product” question every platform and prosecution effort ultimately has to answer.
+* Selected over competing IPMS platforms specifically for configurability and fit with the client's existing product-lifecycle process, rather than for the AI drafting capability that later became the differentiator.
+CORE CAPABILITIES MAPPED TO THIS ROLE
+* Commercialization-readiness triage: flags which inventions in the portfolio have real market demand versus which don't, the same call a licensing officer has to make before deciding where to spend limited outreach time across a Bio/Chem/Biotech docket.
+* Licensee and industry-partner discovery: a network of 20M licensing contacts with partner-specific outreach materials generated in about an hour, so marketing a technology to industry doesn't start from a cold list every time.
+* MTA and disclosure workload visibility: tracks disclosures, IP status, and licensing activity in one place, the kind of visibility tied to as much as a 15% increase in licensing revenue at institutions using it, freeing time for the MTA review and patentability assessment this role also owns.
+WHERE I STOP
+Training faculty on IP policy, negotiating the specific terms of a license agreement, and the judgment call on which technology has real commercial potential, that's relationship-building and judgment I don't have and don't claim to. What I can do is make sure the triage and industry-matching underneath those decisions isn't the thing eating the hours that judgment needs.
